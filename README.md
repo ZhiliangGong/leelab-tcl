@@ -1,5 +1,5 @@
 # Lee Lab tcl code
-## Concat
+## Contact
 http://leelab.uchicago.edu
 ## Licence
 MIT
