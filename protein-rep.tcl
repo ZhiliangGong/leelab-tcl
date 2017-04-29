@@ -1,11 +1,11 @@
-mol new mfge8_trial5bfearlyf199.pdb
+mol new mfge8_bestframe.pdb
 
 rotate x by -90
 rotate y by -90
 
 set sel [atomselect top all]
-$sel move [trans z 330]
-$sel move [trans x 42]
+$sel move [trans z 291]
+$sel move [trans x 33]
 
 mol color Name
 mol representation NewCartoon 0.3 10 4.1 0
