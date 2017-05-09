@@ -5,11 +5,11 @@ mol addfile step7.2_production.dcd step 10
 mol addfile step7.3_production.dcd step 10
 mol addfile step7.4_production.dcd step 10
 mol addfile step7.5_production.dcd step 10
-# mol addfile step7.6_production.dcd step 10
-# mol addfile step7.7_production.dcd step 10
-# mol addfile step7.8_production.dcd step 10
-# mol addfile step7.9_production.dcd step 10
-# mol addfile step7.10_production.dcd step 10
+mol addfile step7.6_production.dcd step 10
+mol addfile step7.7_production.dcd step 10
+mol addfile step7.8_production.dcd step 10
+mol addfile step7.9_production.dcd step 10
+mol addfile step7.10_production.dcd step 10
 # mol addfile step7.11_production.dcd step 10
 
 # protein
